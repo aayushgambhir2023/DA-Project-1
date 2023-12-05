@@ -15,13 +15,13 @@ Identify outliers and anomalies in the data.
 Expenditure Category Analysis:
 Categorize expenditures into relevant categories (e.g., personnel, supplies, utilities).
 Explore the distribution of expenditures across different categories using bar charts or pie charts.
-Program Summary:
 
+Program Summary:
 Create a program summary that aggregates expenditures by program.
 Identify programs with the highest and lowest budgets.
 Visualize the distribution of budgets across programs using bar charts or stacked bar charts.
-Trend Analysis:
 
+Trend Analysis:
 Analyze budget trends over multiple years if historical data is available.
 Identify categories or programs with significant changes in budget allocations over time using line charts or time series plots.
 Geospatial Analysis (Optional):
@@ -45,15 +45,15 @@ Members:
 
 Work Breakdown Structure:
 *** we can add more work if we want to 
-     Data Cleaning and Preprocessing: Aayush - Thursday
-     Exploratory Data Analysis (EDA): Muskan - saturday
-     Expenditure Category Analysis: Anuradha - saturday
-     Program Summary: Muskan - saturday
-     Trend Analysis: Lucas
-     Geospatial Analysis: Jason 
-     Comparison with Demographic Data: Jason - Saturday
-     Correlation Analysis: Anuradha - saturday
-     Capital vs. Operating Budget: Aayush
+1. Data Cleaning and Preprocessing: Aayush - Thursday
+2. Exploratory Data Analysis (EDA): Muskan - saturday
+3. Expenditure Category Analysis: Anuradha - saturday
+4. Program Summary: Muskan - saturday
+5. Trend Analysis: Lucas
+6. Geospatial Analysis: Jason
+7. Comparison with Demographic Data: Jason - Saturday
+8. Correlation Analysis: Anuradha - saturday
+9. Capital vs. Operating Budget: Aayush
 
 Datasets used: 
 1. https://open.toronto.ca/dataset/budget-operating-budget-program-summary-by-expenditure-category/
