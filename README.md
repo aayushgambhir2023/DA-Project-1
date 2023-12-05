@@ -33,14 +33,17 @@ Correlation Analysis:
 Investigate potential correlations between budget categories.
 Explore whether increased spending in one category is associated with changes in another using correlation matrices or scatter plots
 
-Members:
-1. Aayush Gambhir
-2. Jason Tong
-3. Lucas Antonio Girelli
-4. Muskan mittal
-5. Anuradha Kishore
+Capital vs. Operating Budget:
+The proportion of the budget is allocated to capital projects versus ongoing operational expenses and any significant capital investments planned for the future.
 
-6. Work Breakdown Structure:
+Members:
+1. Aayush Gambhir (aayushgambhir2023)
+2. Jason Tong (jasont1209)
+3. Lucas Antonio Girelli (Girellil)
+4. Muskan mittal (Muskanmittal323)
+5. Anuradha Kishore (anuradhakishore)
+
+Work Breakdown Structure:
 *** we can add more work if we want to 
      Data Cleaning and Preprocessing: Aayush - Thursday
      Exploratory Data Analysis (EDA): Muskan - saturday
@@ -50,7 +53,11 @@ Members:
      Geospatial Analysis: Jason 
      Comparison with Demographic Data: Jason - Saturday
      Correlation Analysis: Anuradha - saturday
-   
+     Capital vs. Operating Budget: Aayush
+
+Datasets used: 
+1. https://open.toronto.ca/dataset/budget-operating-budget-program-summary-by-expenditure-category/
+2. 
  
   
 
