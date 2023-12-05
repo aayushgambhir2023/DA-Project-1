@@ -57,7 +57,8 @@ Work Breakdown Structure:
 
 Datasets used: 
 1. https://open.toronto.ca/dataset/budget-operating-budget-program-summary-by-expenditure-category/
-2. 
+2. https://open.toronto.ca/dataset/budget-capital-budget-plan-by-ward-10-yr-approved/
+3. https://open.toronto.ca/dataset/neighbourhood-profiles/
  
   
 
