@@ -33,7 +33,26 @@ Correlation Analysis:
 Investigate potential correlations between budget categories.
 Explore whether increased spending in one category is associated with changes in another using correlation matrices or scatter plots
 
+Members:
+1. Aayush Gambhir
+2. Jason Tong
+3. Lucas Antonio Girelli
+4. Muskan mittal
+5. Anuradha Kishore
 
+6. Work Breakdown Structure:
+*** we can add more work if we want to 
+     Data Cleaning and Preprocessing: Aayush - Thursday
+     Exploratory Data Analysis (EDA): Muskan - saturday
+     Expenditure Category Analysis: Anuradha - saturday
+     Program Summary: Muskan - saturday
+     Trend Analysis: Lucas
+     Geospatial Analysis: Jason 
+     Comparison with Demographic Data: Jason - Saturday
+     Correlation Analysis: Anuradha - saturday
+   
+ 
+  
 
 
 
