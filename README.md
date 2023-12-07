@@ -10,7 +10,7 @@ The analysis we're going to do is ..
    Conduct EDA to understand the characteristics of the budget data.
    Explore basic statistics such as mean, median, and standard deviation.
    Visualize the distribution of budget allocations using histograms or box plots.
-   Identify outliers and anomalies in the data.
+   Identify outliers and anomalies in the data. Through EDA we hope to understand what activity, source accounts for the major portion of the revenue and expenses given the the variety and volume of our data set and by representing this variationthrough various graphs. 
 2. Expenditure Category Analysis:
    Categorize expenditures into relevant categories (e.g., personnel, supplies, utilities).
    Explore the distribution of expenditures across different categories using bar charts or pie charts.
