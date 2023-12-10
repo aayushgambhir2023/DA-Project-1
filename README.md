@@ -37,8 +37,11 @@ The questions we're going to answer are:
 1. 
 2. 
 3. 
-4. What Budget Categories have higher variation the most in terms of Revenue?    What Budget Categories have increased the most in terms of costs?    What Budget Categories present the the biggest increase in the contribution of the city's results? 
-4.2 ??? Out of the three most common progression models which one results the closest to approved budget of the next 5 years?
+4. What Budget Categories have higher variation the most in terms of Revenue?
+   What Budget Categories have increased the most in terms of costs?
+   What Trends can be observed amongst the most and less profitable city programs?
+
+   
 5.
 6. Does the area demographic affect the budget allocation?
 7.
