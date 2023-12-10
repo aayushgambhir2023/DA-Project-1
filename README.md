@@ -37,11 +37,10 @@ The questions we're going to answer are:
 1. 
 2. 
 3. 
-4. What Budget Categories have higher variation the most in terms of Revenue?
+4. What is the trend in the overall city's budget and also the projection looking at a 10 year period (using a 3 year moving average)?
+   What Budget Categories have higher variation the most in terms of Revenue?
    What Budget Categories have increased the most in terms of costs?
    What Trends can be observed amongst the most and less profitable city programs?
-
-   
 5.
 6. Does the area demographic affect the budget allocation?
 7.
