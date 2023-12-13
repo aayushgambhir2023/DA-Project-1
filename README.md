@@ -23,14 +23,12 @@ The analysis we're going to do is ..
    Identify categories or programs with significant changes in budget allocations over time using line charts or time series plots.
 5. Predictive Modeling:
    Explore the possibility of building predictive models to forecast future budget allocations based on historical trends.
-6. Geospatial Analysis:
-   If available, perform geospatial analysis to visualize budget allocations on a map of the City of Toronto.
-7. Comparison with Demographic Data:
+6. Comparison with Demographic Data:
    Explore the relationship between budget allocations and demographic data for the City of Toronto. This could include factors such as population density, income levels, or other relevant indicators.
-8. Correlation Analysis:
+7. Correlation Analysis:
    Investigate potential correlations between budget categories.
    Explore whether increased spending in one category is associated with changes in another using correlation matrices or scatter plots
-9. Capital vs. Operating Budget:
+8. Capital vs. Operating Budget:
    The proportion of the budget is allocated to capital projects versus ongoing operational expenses and any significant capital investments planned for the future.
 
 The questions we're going to answer are: 
@@ -55,7 +53,7 @@ The members in this group are:
 
 ## Work breakdown strucutre
 - Auyush will be pulling the data from Open Toronto, clean and preprocess it, analyzing it, and will be doing analysis 9.
-- Jason will be transforming the data from open Toronto, and will be doing analysis 6 and 7, and answering question 6
+- Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6
 - Lucas will be transforming the data from open Toronto, and will be doing analysis 4
 - Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3 
 - Anuradha will be transforming the data from open Toronto, and will be doing analysis 2 and 7
@@ -64,7 +62,7 @@ The members in this group are:
 ## Datasets used: 
 1. https://open.toronto.ca/dataset/budget-operating-budget-program-summary-by-expenditure-category/
 2. https://open.toronto.ca/dataset/budget-capital-budget-plan-by-ward-10-yr-approved/
-3. https://open.toronto.ca/dataset/neighbourhood-profiles/
+3. https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger.cfm?Lang=E&SearchText=toronto%20centre&DGUIDlist=2023A000435109&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0 
 
 
 ## Code snippets
@@ -78,3 +76,5 @@ The members in this group are:
 
 
 
+## File Problems
+98-401-X2021010_English_CSV_data.csv was too large to commit to github at 180MB, so some data that were irrelavent were deleted as it contains the census of electorial wards of all of Canada, and only the data for Toronto was needed.
