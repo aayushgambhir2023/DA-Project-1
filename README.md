@@ -69,11 +69,11 @@ The members in this group are:
 
 
 ## Analysis 
-
+See analysis.docx for full analysis.
 
 
 ## Limitations
-
+For Demographic impact – Federal Electoral District data for 2021 was obtained from Census Canada which uses only 25% sample data. Ward profiles from the City of Toronto only publicly show 2016, and after contacting the Social Policy Analysis & Research unit of the Social Development, Finance and Administration division at the City of Toronto, they stated that the 2021 profiles are in the process of being created and should be out soon, and directed me to the data from Statistics Canada.
 
 ## File Problems
 98-401-X2021010_English_CSV_data.csv was too large to commit to github at 180MB, so some data that were irrelavent were deleted as it contains the census of electorial wards of all of Canada, and only the data for Toronto was needed.
