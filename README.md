@@ -28,8 +28,6 @@ The analysis we're going to do is ..
 7. Correlation Analysis:
    Investigate potential correlations between budget categories.
    Explore whether increased spending in one category is associated with changes in another using correlation matrices or scatter plots
-8. Capital vs. Operating Budget:
-   The proportion of the budget is allocated to capital projects versus ongoing operational expenses and any significant capital investments planned for the future.
 
 The questions we're going to answer are: 
 1. 
@@ -55,7 +53,7 @@ The members in this group are:
 5. Anuradha Kishore (anuradhakishore)
 
 ## Work breakdown strucutre
-- Auyush will be pulling the data from Open Toronto, clean and preprocess it, analyzing it, and will be doing analysis 9.
+- Aayush will be pulling the data from Open Toronto, clean and preprocess it, analyzing it, and will be doing analysis 9.
 - Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6
 - Lucas will be transforming the data from open Toronto, and will be doing analysis 4
 - Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3 
