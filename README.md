@@ -10,7 +10,7 @@ The analysis we're going to do is ..
    Conduct EDA to understand the characteristics of the budget data.
    Explore basic statistics such as mean, median, and standard deviation.
    Visualize the distribution of budget allocations using histograms or box plots.
-   Identify outliers and anomalies in the data. Through EDA we hope to understand what activity, source accounts for the major portion of the revenue and expenses given the the variety and volume of our data set and by representing this variationthrough various graphs. 
+   Identify outliers and anomalies in the data.
 2. Expenditure Category Analysis:
    Categorize expenditures into relevant categories (e.g., personnel, supplies, utilities).
    Explore the distribution of expenditures across different categories using bar charts or pie charts.
@@ -35,7 +35,10 @@ The questions we're going to answer are:
 1. 
 2. 
 3. 
-4.
+4. What is the trend in the overall city's budget and also the projection looking at a 10 year period (using a 3 year moving average)?
+   What Budget Categories have higher variation the most in terms of Revenue?
+   What Budget Categories have increased the most in terms of costs?
+   What Trends can be observed amongst the most and less profitable city programs?
 5.
 6. Does the area demographic affect the budget allocation?
 7.
@@ -64,7 +67,6 @@ The members in this group are:
 2. https://open.toronto.ca/dataset/budget-capital-budget-plan-by-ward-10-yr-approved/
 3. https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger.cfm?Lang=E&SearchText=toronto%20centre&DGUIDlist=2023A000435109&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0 
 
-
 ## Code snippets
 
 
@@ -75,6 +77,6 @@ The members in this group are:
 ## Limitations
 
 
-
 ## File Problems
 98-401-X2021010_English_CSV_data.csv was too large to commit to github at 180MB, so some data that were irrelavent were deleted as it contains the census of electorial wards of all of Canada, and only the data for Toronto was needed.
+
