@@ -56,7 +56,7 @@ The members in this group are:
 
 ## Work breakdown strucutre
 - Aayush will be pulling the data from Open Toronto, clean and preprocess it, and analyzing it, and answering question 3,5 and 6.
-- Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6.
+- Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 4.
 - Lucas will be transforming the data from open Toronto, and will be doing analysis 4, and answering question 6 and 7.
 - Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3, and answering question 1,2, and 8.  
 - Anuradha will be transforming the data from open Toronto, and will be doing analysis 2 and 7, and answering question 8,9,10,11,12 and 13.
