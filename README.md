@@ -53,7 +53,7 @@ The members in this group are:
 5. Anuradha Kishore (anuradhakishore)
 
 ## Work breakdown strucutre
-- Aayush will be pulling the data from Open Toronto, clean and preprocess it, analyzing it, and will be doing analysis 9.
+- Aayush will be pulling the data from Open Toronto, clean and preprocess it, and analyzing it.
 - Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6
 - Lucas will be transforming the data from open Toronto, and will be doing analysis 4
 - Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3 
