@@ -11,23 +11,24 @@ The analysis we're going to do is ..
    Explore basic statistics such as mean, median, and standard deviation.
    Visualize the distribution of budget allocations using histograms or box plots.
    Identify outliers and anomalies in the data.
-2. Expenditure Category Analysis:
-   Categorize expenditures into relevant categories (e.g., personnel, supplies, utilities).
-   Explore the distribution of expenditures across different categories using bar charts or pie charts.
-3. Program Summary:
+2. Expenditure and Revenue Category Analysis:
+   Categorize expenditures into relevant categories.
+   Explore the distribution of expenditures across different categories using bar charts.
+   Study on Sub Category Analysis
+4. Program Summary:
    Create a program summary that aggregates expenditures by program.
    Identify programs with the highest and lowest budgets.
    Visualize the distribution of budgets across programs using bar charts or stacked bar charts.
-4. Trend Analysis:
+5. Trend Analysis:
    Analyze budget trends over multiple years if historical data is available.
    Identify categories or programs with significant changes in budget allocations over time using line charts or time series plots.
-5. Predictive Modeling:
+6. Predictive Modeling:
    Explore the possibility of building predictive models to forecast future budget allocations based on historical trends.
-6. Comparison with Demographic Data:
+7. Comparison with Demographic Data:
    Explore the relationship between budget allocations and demographic data for the City of Toronto. This could include factors such as population density, income levels, or other relevant indicators.
-7. Correlation Analysis:
+8. Correlation Analysis:
    Investigate potential correlations between budget categories.
-   Explore whether increased spending in one category is associated with changes in another using correlation matrices or scatter plots
+   Explore whether increased spending in one category is associated with changes in another using correlation matrices.
 
 The questions we're going to answer are: 
 1. What do the averages tell us about the operating budget data? ​
@@ -73,6 +74,8 @@ See analysis.docx for full analysis.
 
 ## Limitations
 For Demographic impact – Federal Electoral District data for 2021 was obtained from Census Canada which uses only 25% sample data. Ward profiles from the City of Toronto only publicly show 2016, and after contacting the Social Policy Analysis & Research unit of the Social Development, Finance and Administration division at the City of Toronto, they stated that the 2021 profiles are in the process of being created and should be out soon, and directed me to the data from Statistics Canada.
+There is a gapping category exhibits a negative value in the summary. The negative value signals the presence of unaccounted expenses. These unidentified costs are likely incorporated as an adjustment to rectify the total operating budget. This underscores the necessity for a more in-depth study to categorize and understand these expenses, as they do not align with any specific category
+
 
 ## File Problems
 98-401-X2021010_English_CSV_data.csv was too large to commit to github at 180MB, so some data that were irrelavent were deleted as it contains the census of electorial wards of all of Canada, and only the data for Toronto was needed.
