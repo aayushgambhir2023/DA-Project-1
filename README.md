@@ -57,7 +57,7 @@ The members in this group are:
 - Aayush will be pulling the data from Open Toronto, clean and preprocess it, and analyzing it, and answering question 3 and 5.
 - Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6
 - Lucas will be transforming the data from open Toronto, and will be doing analysis 4
-- Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3 
+- Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3, and answering question 1,2,3 and 8.  
 - Anuradha will be transforming the data from open Toronto, and will be doing analysis 2 and 7
 
 
