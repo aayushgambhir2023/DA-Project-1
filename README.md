@@ -54,19 +54,17 @@ The members in this group are:
 5. Anuradha Kishore (anuradhakishore)
 
 ## Work breakdown strucutre
-- Aayush will be pulling the data from Open Toronto, clean and preprocess it, and analyzing it, and answering question 3 and 5.
-- Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6
-- Lucas will be transforming the data from open Toronto, and will be doing analysis 4
-- Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3, and answering question 1,2,3 and 8.  
-- Anuradha will be transforming the data from open Toronto, and will be doing analysis 2 and 7
+- Aayush will be pulling the data from Open Toronto, clean and preprocess it, and analyzing it, and answering question 3 and 6.
+- Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6.
+- Lucas will be transforming the data from open Toronto, and will be doing analysis 4, and answering question 7 and 5.
+- Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3, and answering question 1,2, and 8.  
+- Anuradha will be transforming the data from open Toronto, and will be doing analysis 2 and 7, and answering question 8,9,10,11,12 and 13.
 
 
 ## Datasets used: 
 1. https://open.toronto.ca/dataset/budget-operating-budget-program-summary-by-expenditure-category/
 2. https://open.toronto.ca/dataset/budget-capital-budget-plan-by-ward-10-yr-approved/
 3. https://www12.statcan.gc.ca/census-recensement/2021/dp-pd/prof/details/download-telecharger.cfm?Lang=E&SearchText=toronto%20centre&DGUIDlist=2023A000435109&GENDERlist=1,2,3&STATISTIClist=1,4&HEADERlist=0 
-
-## Code snippets
 
 
 ## Analysis 
