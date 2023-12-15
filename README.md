@@ -35,7 +35,7 @@ The questions we're going to answer are:
 2. What categories of expenses/revenues have changed or completely eradicated? ​
 3. How do the consistent expenditure trends and rankings across different categories reflect the city's overarching priorities and financial strategies over the five-year period? ​
 4. Does the area demographic affect the budget allocation? ​
-5. What Insights Do Outliers in Toronto's Operating Budget Provide when Analyzing Expenses     and Revenues Separately? ​
+5. What Insights Do Outliers in Toronto's Operating Budget Provide when Analyzing Expenses and Revenues Separately? ​
 6. What trends can be observed in the revenue and expenses for the different categories and programs of the city's financials within the period of 5 years? ​
 7. Using the simple moving average of 3 periods, What is the overall behavior of the revenue throughout the past 10 years ? ​
 8. Which Category has the highest and lowest expense and lowest for each year ?​
@@ -55,7 +55,7 @@ The members in this group are:
 5. Anuradha Kishore (anuradhakishore)
 
 ## Work breakdown strucutre
-- Aayush will be pulling the data from Open Toronto, clean and preprocess it, and analyzing it, and answering question 3 and 6.
+- Aayush will be pulling the data from Open Toronto, clean and preprocess it, and analyzing it, and answering question 3,5 and 6.
 - Jason will be transforming the data from open Toronto, and will be doing analysis 6, and answering question 6.
 - Lucas will be transforming the data from open Toronto, and will be doing analysis 4, and answering question 6 and 7.
 - Muskan will be transforming the data from open Toronto, and will be doing analysis 1 and 3, and answering question 1,2, and 8.  
