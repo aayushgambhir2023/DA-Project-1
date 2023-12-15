@@ -30,18 +30,19 @@ The analysis we're going to do is ..
    Explore whether increased spending in one category is associated with changes in another using correlation matrices or scatter plots
 
 The questions we're going to answer are: 
-1. 
-2. 
-3. 
-4. What is the trend in the overall city's budget and also the projection looking at a 10 year period (using a 3 year moving average)?
-   What Budget Categories have higher variation the most in terms of Revenue?
-   What Budget Categories have increased the most in terms of costs?
-   What Trends can be observed amongst the most and less profitable city programs?
-5.
-6. Does the area demographic affect the budget allocation?
-7.
-8.
-9.
+1. What do the averages tell us about the operating budget data? ​
+2. What categories of expenses/revenues have changed or completely eradicated? ​
+3. How do the consistent expenditure trends and rankings across different categories reflect the city's overarching priorities and financial strategies over the five-year period? ​
+4. Does the area demographic affect the budget allocation? ​
+5. What Insights Do Outliers in Toronto's Operating Budget Provide when Analyzing Expenses     and Revenues Separately? ​
+6. What trends can be observed in the revenue and expenses for the different categories and programs of the city's financials within the period of 5 years? ​
+7. Using the simple moving average of 3 periods, What is the overall behavior of the revenue throughout the past 10 years ? ​
+8. Which Category has the highest and lowest expense and lowest for each year ?​
+9. Is there any fluctuations in the trend for any specific category for any year ?​
+10. Which Subcategory has the highest contribution in terms of Expense and Revenue ​
+11. What is the percentage contribution for each category for each year ​
+12. Is there any co-relation between different categories of revenue and expense ​
+13. Relationship between years and Category ​
 
 ## Members of the group
 
@@ -78,5 +79,5 @@ For Demographic impact – Federal Electoral District data for 2021 was obtained
 ## File Problems
 98-401-X2021010_English_CSV_data.csv was too large to commit to github at 180MB, so some data that were irrelavent were deleted as it contains the census of electorial wards of all of Canada, and only the data for Toronto was needed.
 
-##Presentation Link
-https://github.com/aayushgambhir2023/DA-Project-1.git
+## Presentation Link
+https://onedrive.live.com/edit?id=4E368AAC1276387A!112&resid=4E368AAC1276387A!112&ithint=file%2cpptx&authkey=!AOqNd8yonEBrea0&wdo=2&cid=4e368aac1276387a
